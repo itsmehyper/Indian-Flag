@@ -21,10 +21,10 @@ h1:hover {
 	width: 250px;
 	height: 150px;
 /*	border: 2px solid white;*/
-    position: relative;
-    margin: 0 auto;
-    transition: all 400ms;
-    margin-top: 100px;
+        position: relative;
+        margin: 0 auto;
+        transition: all 400ms;
+        margin-top: 100px;
 }
 .container:hover {
 	scale: 120%;
